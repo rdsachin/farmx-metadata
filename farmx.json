@@ -1,0 +1,17 @@
+{
+  "name": "Farm Exchange Token",
+  "symbol": "FARMX",
+  "description": "Utility token for peer-to-peer farming marketplace.",
+  "seller_fee_basis_points": 0,
+  "image": "https://github.com/rdsachin/farmx-metadata/blob/main/FARMX.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/rdsachin/farmx-metadata/blob/main/FARMX.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
